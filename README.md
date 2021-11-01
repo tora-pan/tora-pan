@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tora-pan
-- 👀 I’m interested in all things tech. (Web Development is where my heart is)
-- 🌱 I’m currently learning all about React.js
+- 👋 Hi, I’m @tora-pan aka: Travis Pandos
+- 👀 Looking to land a job in tech.
+- 🌱 I'm a firm believer that you can teach skills but you cannot teach personality. 
 
 <!---
 tora-pan/tora-pan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
