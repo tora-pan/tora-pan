@@ -5,7 +5,7 @@
 
 🥞FULL STACK DEVELOPER 🗣JAPANESE SPEAKER 💪MOTIVATOR
   
-**After working the 9-5 and taking care of my son until he falls asleep, I dive into where I feel the best... Into my IDE.**  
+**After working the 9-5 and taking care of my son until he falls asleep, I dive back into where I feel the best... Into my IDE.**  
   
 I'd love to share a little bit about myself. I have a passion for all things tech. I love that coding brings new challenges every day, and that there's always something new to learn. Where some may fear or dislike potentially having to learn a whole new skillset, I see opportunity. As a junior developer looking for a place to call home, I ensure to I do my own due diligence by searching through documentation and online to debug any problems that I get stuck prior to reaching out to my senior developer friends / mentors making sure that I can supply them with plenty of details so I don't take as much of their precious time. 
 
